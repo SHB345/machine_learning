@@ -8,4 +8,4 @@ This Specialization is composed of Five courses:
 ### Convolutional Neural Networks
 ### Sequence Models
 
-Course 3 doesn't have any assignments, while the assignments for course 5 i.e. Sequence Models will be uploaded soon.
+Course 3 doesn't have any assignments, while the assignments for the rest of the courses have been uploaded here.
